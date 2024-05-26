@@ -46,4 +46,5 @@ num decayed parameter tensors: 26, with 30,031,872 parameters
 num non-decayed parameter tensors: 13, with 4,992 parameters
 using fused AdamW: True
 ```
-oops this is 30mil, not 10mil params
+oops i labelled this as 10M but it is actually 30M params
+https://wandb.ai/pronto-studios/tinystories/runs/biudrcml?nw=nwuserwilsoncwu
