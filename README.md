@@ -9,3 +9,11 @@ prelim:
 * meant to run on a single machine.
 trying it out
 https://github.com/WilsonCWu/TinyStories/blob/main/explore.ipynb
+
+##  20240526
+model sizing
+* `We use GPT-Neo architecture with window size 256 and context length 512.` ??? arent those the same thing
+* `Our results, shown in Figure 24, suggest that in the regime where the number of heads is small, increasing it improves the performance of the model across all metrics.` `To understand the model’s attention pattern after training, we use a 1-layer model with hidden dimension 1024 and 16 attention heads that was trained on TinyStories` ok let's start with head size 64
+
+Try training
+* https://github.com/WilsonCWu/nanoGPT/tree/tinystories using this because it's relatively simple and we're training a small thing
