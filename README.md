@@ -226,6 +226,157 @@ Tom and Sam open their seat belts and see many people with the plane. They see a
 
 Tom and Sam are sad. They do not like the plane. They want to
 ```
+fixed start `"Two boys named Jake and Josh were playing in the forest.`
+```
+/content/nanoGPT# python sample.py --out_dir=out-tinystories
+Overriding: out_dir = out-tinystories
+number of parameters: 29.94M
+No meta.pkl found, assuming GPT-2 encodings...
+Two boys named Jake and Josh were playing in the forest. Jake wanted to show Josh something special. He said, "Let's go for a walk in the forest". 
+Josh was curious and asked, "What do we do?". 
+Jake replied, "Let's go for a walk and see what we can find".
+
+So they headed out and soon found a big tree with big branches. They climbed up the tree and looked around. It was a beautiful sight.
+
+"Wow, look at that tree! It's so big and tall!" said Jake.
+
+The boys started to climb the tree. They walked and walked until they reached the top.
+
+They looked around and saw lots of trees and flowers. Suddenly, they heard a loud noise. It was a big animal.
+
+"What's that?" asked Jake. 
+
+"That was a hawk!" said Josh, feeling very scared.
+
+Jake and Josh looked at each other. They were very scared.
+
+"What should we do?" asked Jake. 
+
+"Let's go back down the tree," said Josh. 
+
+So, the boys ran down the tree, back to the park, safe and sound.<|endoftext|>Once upon a time, there was a kind girl called Lucy. She had a pet rabbit named Fluffy. Fluffy had soft fur and Lucy loved him very much.
+
+One day, Lucy decided to take Fluffy for a walk in the park. As she was walking, she saw a pile of powder all over the ground and decided to bring it closer to Fluffy.
+
+When Lucy arrived, Fluffy was very happy to see Lucy. He hopped around the powder and Lucy laughed and clapped her hands. Lucy was so happy that Fluffy was safe.
+
+After a while, Lucy decided it was time to go home. As she walked home, Fluffy waved goodbye to Lucy and gave her a big hug. Lucy smiled and waved goodbye as she walked away.
+
+When Lucy got home, she was so tired but also very happy that she could bring Fluffy with her. The end.<|endoftext|>Once upon a time, there was a little boy named Timmy. Timmy loved to play outside in the sun. One day, while playing, Timmy fell down and hurt his knee. His mom took him to the hospital for a hospital.
+
+At the hospital, they met a kind nurse named Mrs. Smith. Mrs. Smith looked very
+---------------
+Two boys named Jake and Josh were playing in the forest. Simon was very frightened, but Josh was very brave.
+
+They started to climb the tree and over and over again. But then they started to quarrel. "I want to climb the tree," said Jake. 
+
+"No, I want to climb the tree," said Josh. 
+
+They argued and shouted until they finally decided to stop. 
+
+"Let's do it together," shouted Jake. 
+
+"Okay," said Josh. 
+
+So they held hands and started to climb the tree. When they got to the top, they could see the whole forest. 
+
+"Wow!" said Jake. "We did it!" 
+
+They were both very happy that they could climb the tree together.<|endoftext|>Once upon a time, there was a family who was very happy. They had a secret. It was a big, shiny stone. The family wanted to make it even more special.
+
+They went over to the house and found a big, red box. They put all their toys inside the box. Then they put all the toys in their places and made sure that the box was closed tight.
+
+The family was so excited. They were very happy with their secret box. They knew it would be a great place to make everything happen. So they went outside and set the box on the grass.
+
+The box made the toys look brand new. The family was excited and wanted to play with the toys. They put the toys in one pile and all the other toys in another.
+
+The family was very happy with their secret box. They played and laughed, and made it even better. The family was so happy that they had found the perfect hiding place.<|endoftext|>Once upon a time, there was a little girl named Lily. She had a normal bedroom with a big bed and a cozy bed that she loved to sleep in. One day, Lily's mommy told her they were going to the park to play. Lily was so excited and said, "Yay, let's go!"
+
+At the park, Lily saw a boy who was also playing with a ball. Lily's mommy said, "Would you like to play with the ball?" Lily said, "Yes, please!" And the boy threw the ball for her. Lily laughed and said, "That was fun! Can I have a turn?" Her mommy said, "Sure, you can have a turn.
+---------------
+Two boys named Jake and Josh were playing in the forest. Jake was wearing a yellow jacket and Josh was wearing a blue shirt.
+
+"Hi Jake, do you want to play with me?" Josh asked.
+
+"Yes please!" Jake replied. Jake put on his red jacket and Josh tried to guess what he was wearing.
+
+Ryan said, "I'm wearing a blue shirt and a blue shirt. It's my favorite."
+
+Jake smiled and said, "Yes, it's a suit too. Look at my blue shirt."
+
+The boys started to play together and they laughed and laughed. Jake thought it was so much fun.
+
+After a while, Jake got hungry. "I want to go get some food," he said.
+
+Josh agreed and they shared a snack. Jake and Josh were very happy. They had a great day playing together and it was a perfect day.<|endoftext|>Once upon a time, there was a little boy named Jack. He was three years old and loved to explore. One day, he was walking in the woods when he saw a big, white rock. He was so excited, he wanted to climb it.
+
+"Mum, can I climb that rock?" he asked. 
+
+"Yes," replied his mum.
+
+So Jack started to climb the rock. He was so busy trying to balance there! After a few minutes, he got tired and sat down to eat some grass.
+
+After he finished eating, Jack continued on his walk. He saw a beautiful rainbow in the sky and he knew that he'd never forget it. He knew he would always remember this special day.<|endoftext|>Once upon a time, there was a little girl called Lucy. She loved to play outside in the sunshine.
+
+One day, Lucy was playing in the garden. She found a stick. It was a big, white stick.
+
+Lucy picked up the stick and showed it to her mum. "Mum, look what I found!" she said.
+
+Mum smiled and said, "That's a very special stick, Lucy. It's a very special stick. It can use the stick to build a special castle."
+
+Lucy was very excited. She wanted to make something special with the stick.
+
+So she took the stick and started to make the castle. She used the stick to make a tall castle. When she was done, her mum said, "Now we have to go home."
+
+---------------
+Two boys named Jake and Josh were playing in the forest. Jake was looking for a place to hide. Suddenly, he saw a cobweb hanging from a tree. He wanted to be clever and use his finger to scare the spider away. Josh was worried and he quickly ran away.
+
+Jake saw what Sam had done and he was very angry. He shouted at Josh that he must pay for the cobweb and shut the door. Josh felt bad for being so angry and he slowly opened the door.
+
+The spider was still there, but Jake was also relieved. He said, "thank you for paying for the cobweb." Josh smiled and then used his finger to cut the cobweb from the tree.
+
+The spider was very happy and thanked Jake for being so clever. The two boys went their separate ways and enjoyed the nice clean cobweb together.<|endoftext|>Once upon a time there was a little boy called Jack. He was three years old and he loved to explore. One day he went for a walk in the park. He saw something very shiny in the grass. It was a metal box.
+
+Jack was very excited and he bent down to pick it up. He held it up and it was very interesting! He looked at it for a long time and then he noticed something strange. The metal box was filled with many tiny things like rocks and feathers.
+
+Jack was so curious and he couldn't wait to know what they were. He carefully opened the box, and saw something amazing! There were two coloured birds and a little white deer inside! 
+
+Jack was so happy he started to laugh. He had found something so special that he had found it all along. He decided to keep it forever and never forget the interesting things he found.<|endoftext|>Once upon a time, there was a little girl named Maria. She was feeling very adventurous and wanted to go on an adventure. She went to find her parents and she asked if they would take her on a magical journey. 
+
+Her parents were very excited but also very careful as they drove to the airport. Maria was a bit scared, but she kept asking her parents questions and they said yes! 
+
+When they arrived at the airport, Maria explored the airport. There were lots of people and there were many people. Maria started to feel scared, but her parents encouraged her to keep going.
+
+They went across the street and went for a ride. Maria was so happy that she'd been on such an amazing journey!
+---------------
+Two boys named Jake and Josh were playing in the forest. Jake saw a strange creature with big eyes and a long tail. 
+
+Ryan said, "What are you doing here? This is not a place for children. This is an axe."
+
+Jake was scared but he said, "I'm just exploring."
+
+The creature said, "Come, let's explore together."
+
+Jake and Josh were so excited. They ran around and looked at the axe. They were amazed at how big it was. 
+
+The creature said, "This is a very special axe. It makes us very brave."
+
+Jake and Josh nodded. They decided to keep exploring the forest.<|endoftext|>Once upon a time there was a little girl named Amy. She was so excited because she was going to have a picnic outside her house.
+
+Amy was so excited she ran to the kitchen and started to eat. But before she could eat, she saw a big crack in the wall. She looked up and said, "What's wrong?"
+
+Suddenly, a voice answered, "I'm stuck in the wall. Can you help me?"
+
+Amy looked up and saw a big, friendly mouse. The mouse said, "Yes, I can help you."
+
+The mouse hopped up onto the wall and started to climb. With a mighty wave of its wings, Amy was able to get the mouse out.
+
+The mouse thanked Amy for her help and started to cry. Soon the mouse was free, and Amy was full and happy. She thanked the mouse for helping her. From then on, Amy was always looking out for things to get her food.<|endoftext|>John was a little boy. He was three years old and he was playing in his room. Today he had a rag in his hand. It was a small rag and he was so excited. He wanted to move it around and play with it.
+
+John said to himself, â€œI am going to play with it!â€ He grabbed the rag and started to pull it around. He rolled it and twisted it around with his feet. He laughed and laughed as he played.
+
+John didnâ€™t want to move the rag. His mom saw him playing and said, â€œJohn, stop pulling the rag!â€ She took the rag away from John and said, â€œWhy donâ€™t you put the rag outside and keep playing? It
+```
 TODOs
 * try smaller model size, paper used ~30h for model of this size, and probably trains at higher efficiency
 * fix sample.py to terminate at <|endoftext|>
